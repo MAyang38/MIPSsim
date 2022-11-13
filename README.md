@@ -2,6 +2,9 @@
 The disassemble and simulator of MIPS architecture binary code.
 
 
+How to use：
+gcc the cpp and ./.out    inputfile
+
 ecnu architecture course
 
 In this project you will create a simple MIPS simulator which will perform the following two tasks:
