@@ -3,7 +3,14 @@ The disassemble and simulator of MIPS architecture binary code.
 
 
 How to use：
-gcc the cpp and ./.out    inputfile
+windows:
+	g++ .\MIPSsim.cpp -o MIPSsim
+	.\MIPSsim  .\sample.txt  .\simulation.txt
+	
+
+	linux:
+	g++ ./MIPSsim.cpp -o MIPSsim
+	./MIPSsim ./sample.txt ./simulation.txt
 
 ecnu architecture course
 
